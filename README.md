@@ -2,19 +2,15 @@
 <img src="https://i.imgur.com/OzJFoIv.png" alt="Proton VPN logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Proton VPN - Installation & Usage</h1>
+This tutorial outlines the installation and usage of Proton VPN.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Proton VPN
 
 <h2>Operating Systems Used </h2>
 
@@ -22,11 +18,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create a Windows 10 Virtual Machine in Microsoft Azure 
+- Go to https://whatismyipaddress.com/ and take note of the IP Information you see in a text file
 
 <h2>Installation Steps</h2>
 
