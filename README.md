@@ -27,12 +27,12 @@ This tutorial outlines the installation and usage of Proton VPN.<br />
 <img src="https://i.imgur.com/CbzBIq3.png" height="80%" width="80%" alt="Proton VPN Signup"/>
 </p>
 <p>
-Visit Proton VPN website and click on the Create account button on the top right corner. After choosing your preferred plan or pricing, you will be prompted to create an account. For this tutorial, I chose to make a free account.
+Visit Proton VPN website and click on the Create account button on the top right corner. After choosing your preferred plan or pricing, you will be prompted to create an account. For this tutorial, I chose the free plan.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/g7siuuF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/g7siuuF.png" height="80%" width="80%" alt="Homepage"/>
 </p>
 <p>
 After making your account, you will be directed to this page. Click on Downloads over on the left side of the page and proceed with the download and installation of the Proton VPN client. Make sure you click on the file corresponding to your OS.
