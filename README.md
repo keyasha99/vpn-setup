@@ -49,7 +49,7 @@ Once you finish the installation process, open the software and sign in.
 <img src="https://i.imgur.com/H7PBkOt.png" height="80%" width="80%" alt="Start Page"/>
 </p>
 <p>
-This is how your screen will look after you sign in. Notice at the bottom of the screen that your current IP address is listed along with your location and provider. Click on the Connect button to quickly connect to another server.
+This is how your screen will look after you sign in. At the bottom of the screen, your current IP address, location, and provider are listed. Click on the Connect button to quickly connect to another server.
 </p>
 <br />
 
@@ -65,6 +65,6 @@ Proton VPN has connected me to a server in the Netherlands. You might be connect
 <img src="https://i.imgur.com/1aVG7uQ.png" height="80%" width="80%" alt="Browsing the Internet"/>
 </p>
 <p>
-Now when you browse the internet, the language is changed in relation to the location of your VPN server.
+Now, when you browse the internet, the language is changed according to the location of your VPN server.
 </p>
 <br />
